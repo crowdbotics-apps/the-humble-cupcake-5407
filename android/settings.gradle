@@ -1,0 +1,3 @@
+rootProject.name = 'the_humble_cupcake_5407'
+
+include ':app'
